@@ -1,0 +1,96 @@
+.page-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .page-title {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  }
+  
+  .page-subtitle {
+    font-size: 1.3em;
+    color: #444;
+    margin-bottom: 30px;
+    text-align: center;
+    font-family: 'Verdana', sans-serif;
+  }
+  
+  .page-paragraph {
+    font-size: 1.2em;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    max-width: 100%;
+    text-align: center;
+  }
+  
+  .page-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 5px;
+  }
+  
+  figure {
+    margin: 0;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  figcaption {
+    text-align: center;
+    font-size: 0.9em;
+    color: #777;
+    margin-top: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .bibliography-container {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #fafafa;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .bibliography-title {
+    font-size: 1.5em;
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .bibliography-section {
+    margin-bottom: 20px;
+  }
+  
+  .bibliography-subtitle {
+    font-size: 1.3em;
+    color: #444;
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  .bibliography-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .bibliography-list li {
+    font-size: 1em;
+    color: #555;
+    margin-bottom: 10px;
+  }
+  
