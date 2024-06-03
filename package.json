@@ -1,5 +1,6 @@
 {
   "name": "pollution-crime-page",
+  "homepage": "https://vladmuzyka2002.github.io/Pollution-Crime-Page",
   "version": "1.0.0",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
