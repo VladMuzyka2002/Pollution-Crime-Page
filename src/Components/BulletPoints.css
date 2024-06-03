@@ -1,0 +1,11 @@
+.bullet-points {
+    padding-left: 20px;
+    color: #666; /* Slightly gray font color */
+    font-family: Arial, sans-serif; /* Use a cleaner font */
+  }
+  
+  .bullet-points li {
+    margin-bottom: 10px;
+    line-height: 1.5;
+  }
+  
