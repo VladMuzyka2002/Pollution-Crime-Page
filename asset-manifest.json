@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Pollution-Crime-Page/static/css/main.5d02933c.css",
-    "main.js": "/Pollution-Crime-Page/static/js/main.ed987606.js",
-    "static/js/453.868f1230.chunk.js": "/Pollution-Crime-Page/static/js/453.868f1230.chunk.js",
+    "main.css": "/Pollution-Crime-Page/static/css/main.ebc795f9.css",
+    "main.js": "/Pollution-Crime-Page/static/js/main.6fb186e2.js",
+    "static/js/488.c0b26f97.chunk.js": "/Pollution-Crime-Page/static/js/488.c0b26f97.chunk.js",
     "index.html": "/Pollution-Crime-Page/index.html",
-    "main.5d02933c.css.map": "/Pollution-Crime-Page/static/css/main.5d02933c.css.map",
-    "main.ed987606.js.map": "/Pollution-Crime-Page/static/js/main.ed987606.js.map",
-    "453.868f1230.chunk.js.map": "/Pollution-Crime-Page/static/js/453.868f1230.chunk.js.map"
+    "main.ebc795f9.css.map": "/Pollution-Crime-Page/static/css/main.ebc795f9.css.map",
+    "main.6fb186e2.js.map": "/Pollution-Crime-Page/static/js/main.6fb186e2.js.map",
+    "488.c0b26f97.chunk.js.map": "/Pollution-Crime-Page/static/js/488.c0b26f97.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d02933c.css",
-    "static/js/main.ed987606.js"
+    "static/css/main.ebc795f9.css",
+    "static/js/main.6fb186e2.js"
   ]
 }
